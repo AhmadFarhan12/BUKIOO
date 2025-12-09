@@ -1,0 +1,10 @@
+toko-online/
+│
+├── index.html
+├── products.html
+│
+├── css/
+│   └── style.css
+│
+└── js/
+    └── script.js
