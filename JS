@@ -1,0 +1,1 @@
+console.log("Website toko online siap digunakan!");
